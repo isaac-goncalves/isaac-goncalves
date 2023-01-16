@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 Meu Portifolio: 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaac-goncalves&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-goncalves&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<div id="header" align="center">
+
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <a href="https://www.linkedin.com/in/isaac-correia-gon%C3%A7alves-4a7375138/">
