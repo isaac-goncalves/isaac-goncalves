@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 -->
 Meu Portifolio: 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaac-goncalves&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaac-goncalves&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=isaac-goncalves&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=isaac-goncalves&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-goncalves&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
