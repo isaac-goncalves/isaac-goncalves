@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=isaac-goncalves&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isaac-goncalves&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-goncalves&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <a href="https://www.linkedin.com/in/isaac-correia-gon%C3%A7alves-4a7375138/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
