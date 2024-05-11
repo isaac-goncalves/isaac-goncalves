@@ -1,26 +1,15 @@
-# 💫Hi, I'm Isaac 👋
+🚀 Olá, sou Isaac! 👋
 
-Sou um Desenvolvedor Web Front-end com habilidades sólidas em JavaScript, React e Styled Components. Além disso, tenho experiência em Back-end na criação e consumo de APIs REST e Websockets com Node.js, Express.js e TypeORM, bem como conhecimento de banco de dados MySQL e Postgres. Sou proficiente em ferramentas de versionamento de código, como Git, e estou em busca de uma oportunidade de trabalho na área de Desenvolvimento Web.
+🌟 Desenvolvedor Web Front-end e Back-end | JavaScript | React | Node.js
 
-Confira meu portfólio em http://isaacgoncalves.tech
+Como entusiasta da tecnologia e desenvolvedor apaixonado, eu me destaco na criação de experiências de usuário dinâmicas e responsivas, utilizando JavaScript, React e Styled Components no front-end. No back-end, minha expertise inclui desenvolvimento e consumo de APIs REST, Websockets com Node.js, Express.js e TypeORM, além de sólido conhecimento em bancos de dados como MySQL e Postgres.
 
-<!--
-**isaac-goncalves/isaac-goncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Ferramentas de versionamento de código como Git são essenciais no meu dia a dia. Atualmente, estou em busca de oportunidades que me desafiem a expandir minhas habilidades em Desenvolvimento Web.
 
-Here are some ideas to get you started:
+📁 Confira meu portfólio e projetos em: Meu Portfólio
+📌 Explore meu projeto AI Kanban: AI Kanban
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaac-goncalves&theme=dark&background=000000)](https://git.io/streak-stats) -->
-
+💬 Vamos nos conectar! Estou sempre aberto para discutir sobre desenvolvimento e novas tecnologias. Encontre-me no LinkedIn.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isaac-goncalves&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isaac-goncalves&theme=blue-green&hide_border=false)<br/>
