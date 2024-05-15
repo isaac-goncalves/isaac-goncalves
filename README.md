@@ -6,8 +6,8 @@ Como entusiasta da tecnologia e desenvolvedor apaixonado, eu me destaco na cria�
 
 🛠️ Ferramentas de versionamento de código como Git são essenciais no meu dia a dia. Atualmente, estou em busca de oportunidades que me desafiem a expandir minhas habilidades em Desenvolvimento Web.
 
-📁 Confira meu portfólio e projetos em: Meu Portfólio
-📌 Explore meu projeto AI Kanban: AI Kanban
+📁 Confira meu portfólio e projetos em: [Meu Portfólio](https://main.d205p05ehzahr.amplifyapp.com/)
+📌 Explore meu projeto AI Kanban: [AI Kanban](https://my-kanban-ai.vercel.app/)
 
 💬 Vamos nos conectar! Estou sempre aberto para discutir sobre desenvolvimento e novas tecnologias. Encontre-me no LinkedIn.
 # 📊 GitHub Stats:
